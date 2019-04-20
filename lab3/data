@@ -1,0 +1,7 @@
+CC1=C(C(=NO1)C2=CC=CC=C2)C(=O)N[C@H]3[C@@H]4N(C3=O)[C@H](C(S4)(C)C)C(=O)[O-].[Na+]
+CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)N)C(=O)O)C
+CC1=NN=C(S1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)CN4C=NN=N4)SC2)C(=O)O
+CNC[C@@H](C1=CC(=C(C=C1)O)O)O
+C1=CC(=C(C=C1[C@H](CN)O)O)O
+CNC[C@@H](C1=CC(=CC=C1)O)O
+
